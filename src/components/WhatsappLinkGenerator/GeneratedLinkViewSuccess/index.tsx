@@ -1,0 +1,1 @@
+export { GeneratedLinkViewSuccess } from "./GeneratedLinkViewSuccess";
