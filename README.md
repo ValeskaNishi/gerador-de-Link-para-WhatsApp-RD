@@ -26,7 +26,7 @@ git clone https://github.com/ValeskaNishi/gerador-de-Link-para-WhatsApp-RD.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd geradorLinkWhatsappRD
+cd gerador-de-Link-para-WhatsApp-RD/
 ```
 
 3. Instale as dependências:
