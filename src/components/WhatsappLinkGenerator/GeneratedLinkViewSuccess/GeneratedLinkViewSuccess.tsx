@@ -139,7 +139,7 @@ export function GeneratedLinkViewSuccess({
                   </div>
 
                   <a
-                    href="https://www.rdstation.com/conversas/"
+                    href="https://www.rdstation.com/contato/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 hover:opacity-75 transition-opacity"
